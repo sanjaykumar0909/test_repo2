@@ -24,3 +24,7 @@ void exponential(float n1){
 	float b=exp(n1);
 	printf("%f",b);
 }
+void func(){
+  printf("power: 1, exponential: 2); 
+}
+
